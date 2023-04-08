@@ -9,6 +9,11 @@ public class Main {
         Marine m1 = new Marine("Sfina",12356,800,120,45656,1,"Africa");
         m1.set_fuel_consumption(12358);
         System.out.println("fuel " + m1.get_fuel_consumption());
+        System.out.println(l1.get_number_of_wheels());
+        System.out.println(a1.get_license_type());
+        System.out.println(a1.military_or_civilian());
+        System.out.println(l1.get_engine_life_time());
+
 
     }
 }
