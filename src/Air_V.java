@@ -1,6 +1,6 @@
 /*
 Maya Rozenberg - 313381600
-Doron Shpitzer -
+Doron Shpitzer -313262594
  */
 public interface Air_V {
 	public String getType();			//Air vehicle type

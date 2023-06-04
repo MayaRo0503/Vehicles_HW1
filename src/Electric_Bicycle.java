@@ -1,6 +1,6 @@
 /*
 Maya Rozenberg - 313381600
-Doron Shpitzer -
+Doron Shpitzer -313262594
  */
 public class Electric_Bicycle extends Land_V_Class implements Engine_V{
 	private int gas_consumption;

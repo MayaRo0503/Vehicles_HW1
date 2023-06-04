@@ -1,6 +1,6 @@
 /*
 Maya Rozenberg - 313381600
-Doron Shpitzer -
+Doron Shpitzer -313262594
  */
 public interface Water_V {
 	public String is_With_Wind_Dir();

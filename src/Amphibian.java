@@ -1,6 +1,6 @@
 /*
 Maya Rozenberg - 313381600
-Doron Shpitzer -
+Doron Shpitzer -313262594
  */
 public class Amphibian extends T_Vehicle implements Engine_V, Water_V, Land_V {
 
